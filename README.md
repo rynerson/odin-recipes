@@ -1,0 +1,1 @@
+The goal of this project is to build a simple recipe website using HTML. The project will give me additional practice with HTML, GIT, and later on CSS. 
