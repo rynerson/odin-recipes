@@ -35,3 +35,9 @@ ol{
     background-color:rgb(144, 255, 110);
     padding:10px 40px 10px 40px;
 }
+footer{
+    padding-top:10px;
+    padding-bottom:30px;
+    background-color:rgb(144, 255, 110);
+    text-align:center;
+}
